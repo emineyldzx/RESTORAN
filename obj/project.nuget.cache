@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "51PUSHVM7vo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emine\\source\\repos\\RestoranSiparisSistemii\\RestoranSiparisSistemi\\RestoranSiparisSistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emine\\.nuget\\packages\\sourcegear.sqlite3\\3.50.4.5\\sourcegear.sqlite3.3.50.4.5.nupkg.sha512",
+    "C:\\Users\\Emine\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\3.0.3\\sqlitepclraw.bundle_e_sqlite3.3.0.3.nupkg.sha512",
+    "C:\\Users\\Emine\\.nuget\\packages\\sqlitepclraw.config.e_sqlite3\\3.0.3\\sqlitepclraw.config.e_sqlite3.3.0.3.nupkg.sha512",
+    "C:\\Users\\Emine\\.nuget\\packages\\sqlitepclraw.core\\3.0.3\\sqlitepclraw.core.3.0.3.nupkg.sha512",
+    "C:\\Users\\Emine\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\3.0.3\\sqlitepclraw.provider.e_sqlite3.3.0.3.nupkg.sha512",
+    "C:\\Users\\Emine\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\Emine\\.nuget\\packages\\system.data.sqlite\\2.0.3\\system.data.sqlite.2.0.3.nupkg.sha512",
+    "C:\\Users\\Emine\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
