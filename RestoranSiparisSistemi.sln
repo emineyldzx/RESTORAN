@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11822.327 insiders
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoranSiparisSistemi", "RestoranSiparisSistemi.csproj", "{19D983A2-7917-CCFD-E4CB-4D8AE71396EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19D983A2-7917-CCFD-E4CB-4D8AE71396EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D983A2-7917-CCFD-E4CB-4D8AE71396EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D983A2-7917-CCFD-E4CB-4D8AE71396EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D983A2-7917-CCFD-E4CB-4D8AE71396EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A93FCF-CFF1-4A13-8D17-DD779CC99BF4}
+	EndGlobalSection
+EndGlobal
